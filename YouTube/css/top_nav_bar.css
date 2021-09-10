@@ -1,0 +1,22 @@
+.top-nav-bar {
+    background-color: aquamarine;
+    width: 100%;
+    height: 70px;
+    display: flex;
+}
+
+.top-nav-bar > div:nth-child(1){
+    flex-grow: 1;
+    background-color: brown;
+    height: 50px;
+}
+.top-nav-bar > div:nth-child(2){
+    flex-grow: 3;
+    background-color: chartreuse;
+    height: 50px;
+}
+.top-nav-bar > div:nth-child(3){
+    flex-grow: 1;
+    background-color: darkgray;
+    height: 50px;
+}
