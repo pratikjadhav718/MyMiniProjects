@@ -1,0 +1,26 @@
+.items_main_div {
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    background-color: lightgray;
+}
+
+.main_heading {
+    font-size: 50px;
+}
+
+.input_box{
+    height: 40px;
+    width: 450px;
+    font-size: 30px;
+}
+
+.button_add_task {
+    height: 40px;
+    width: 50px;
+    font-size: 30px;
+    margin-left: 20px;
+}
