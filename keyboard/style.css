@@ -1,0 +1,27 @@
+button {
+    width: 64px;
+    height: 64px;
+    background-color: black; 
+    color: white; 
+    font-size: 32px;
+    margin: 10px;
+}
+
+.keys_row {
+    text-align: center;
+}
+
+#keys_output {
+    background-color: grey;
+    margin: 20px;
+    font-size: 48px;
+    text-align: center;
+}
+#space-key{
+    width: 250px;
+    height: 64px;
+}
+#caps_btn{
+    width: 250px;
+    height: 64px;
+}
